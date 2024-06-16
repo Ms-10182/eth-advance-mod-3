@@ -1,4 +1,4 @@
-# Token Supply
+# Storage Victim
 
 This repo contains 2 .sol files, old_Storage_victim.sol (Rewritten to new_Storage_victim.sol), and Audit.md contains all the testing and fixes results.
 
@@ -26,7 +26,3 @@ slither new_Storage_victim.sol
 Mayank Sharma  
 [@Mayank](https://www.linkedin.com/in/mayank-sharma-078278243/)
 
-
-## License
-
-This MyToken is licensed under the MIT License 
