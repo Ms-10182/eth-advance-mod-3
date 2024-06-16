@@ -5,7 +5,7 @@ Solidity Version: 0.4.23 (Rewritten to 0.8.0)
 
 Date: 2024-06-16
 
-Author: Mayank Sharma
+Author:[Mayank Sharma](https://www.linkedin.com/in/mayank-sharma-078278243/)
 
 ### 1. Introduction
 This report outlines the security issue and bugs of smart contract written in Solidity 0.4.23 which may cause potential loss  The smart contract is re-written in solidity 0.8.0 with security improvements and bug fixes. Slither is being used for analysis and bug fixing.
