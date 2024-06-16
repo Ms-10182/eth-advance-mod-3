@@ -73,7 +73,7 @@ contract StorageVictim {
 
 The vulnerability and bugs founds in the smart contract(0.4.x) is solved by applying the fixes provided in <b>```3. Security Findings```</b>. The rewritten contract in Solidity 0.8.0 contains all the fixes.
 
-7. Recommendations
+6. Recommendations
 Always initialize storage variables before using their members.
 Use up-to-date Solidity versions to benefit from security improvements and best practices.
 Use different tools to audi the contract before final deployment.
