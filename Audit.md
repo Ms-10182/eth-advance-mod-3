@@ -1,5 +1,5 @@
 # Smart Contract Audit Report for StorageVictim.sol
-Contract: new_Storage_victim.sol
+Contract: old_Storage_victim.sol (Rewritten to new_Storage_victim.sol)
 
 Solidity Version: 0.4.23 (Rewritten to 0.8.0)
 
